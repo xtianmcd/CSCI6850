@@ -1,0 +1,3 @@
+/Applications/ITK_projects/CSCI6850_P1/Bin/OtsuThresholdImageFilter_build/CMakeFiles/rebuild_cache.dir
+/Applications/ITK_projects/CSCI6850_P1/Bin/OtsuThresholdImageFilter_build/CMakeFiles/edit_cache.dir
+/Applications/ITK_projects/CSCI6850_P1/Bin/OtsuThresholdImageFilter_build/CMakeFiles/OtsuThresholdImageFilter.dir

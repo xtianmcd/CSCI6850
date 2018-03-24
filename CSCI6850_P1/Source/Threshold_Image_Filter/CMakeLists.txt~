@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.10)
+
+find_package(ITK REQUIRED)
+include(${ITK_USE_FILE})
+
+add_executable(BinaryThresholdImageFilter BinaryThresholdImageFilter.cxx)
+
+target_link_libraries(BinaryThresholdImageFilter ${ITK_LIBRARIES})
